@@ -61,7 +61,7 @@ Para ajustar este ángulo se tiene en cuenta la inclinación de la pierna desde 
 ## 4. Instalación
 
 ### 4.1 Instalación del juego en Windows
-Para instalar el juego debe acceder al apartado de [Releases][https://github.com/raulblas7/Videojuegos-para-terapia-de-rehabilitacion/releases] en este Repositorio y descargar el archivo comprimido .zip referente a Jumping Game (Recomendamos siempre descargar la versión más nueva).
+Para instalar el juego debe acceder al apartado de [Releases](https://github.com/raulblas7/Videojuegos-para-terapia-de-rehabilitacion/releases) en este Repositorio y descargar el archivo comprimido .zip referente a Jumping Game (Recomendamos siempre descargar la versión más nueva).
 
 Una vez descargado descomprima el archivo.
 Para abrir el juego haga doble click en el archivo **JumpingGame.exe**
@@ -71,7 +71,7 @@ Para abrir el juego haga doble click en el archivo **JumpingGame.exe**
 
 ### 4.1 Instalación de la aplicación móvil
 
-Para instalar la aplicación debe acceder al apartado de [Releases][https://github.com/raulblas7/Videojuegos-para-terapia-de-rehabilitacion/releases] en este Repositorio y descargar el archivo .apk referente a Phone Sensor (Recomendamos siempre descargar la versión más nueva).
+Para instalar la aplicación debe acceder al apartado de [Releases](https://github.com/raulblas7/Videojuegos-para-terapia-de-rehabilitacion/releases) en este Repositorio y descargar el archivo .apk referente a Phone Sensor (Recomendamos siempre descargar la versión más nueva).
 
 Una vez descargado dirijase a "Descargas" en su móvil, busque el archivo descargado **Phone Sensor.apk**.
 Pulse en el archivo e instalelo.
